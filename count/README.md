@@ -1,0 +1,1 @@
+count_M cuenta el numero de veces que aparece un caracter en un fichero. readchar_R nos dice que caracter se encuentra en la posicion que especifiquemos. El programa del main, segun los argumentos que le aportemos, utilizara count_M o readchar_R sobre el fichero especificado. La llamada al programa debera ser : count <R|M> <fichero> <caracter>
